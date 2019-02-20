@@ -1,8 +1,8 @@
 # Knights_tour
-My resolution to the knight's tour's mathematical problem
+My solution to the knight's tour's mathematical problem
 
 ## Description
- - One simple resolution to this millennial problem
+ - One simple solution to this millennial problem
  - This repository also has two python documents, one to create the graphical chess boards calculated with c code, and the other to make a board from 4 smaller boards with the same size, for a divide and conquer solution
  - This problem was introduced to me by my University algorithm's professor as a second problem to defend my grade in that subject
 
